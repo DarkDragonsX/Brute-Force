@@ -50,7 +50,7 @@ Ensure the file contains the list of passwords you wish to test.
 3.2. Install the Requirements
 
 Open a terminal and navigate to the tool’s directory:
-
+---
 cd brute-force
 
 Grant execution permissions to all files:
@@ -65,7 +65,7 @@ Note: It is advisable to update your Kali Linux system using:
 
 sudo apt update && sudo apt upgrade
 
-
+---
 3.3. Run the Tool
 
 Once setup and installation are complete, launch the tool.
