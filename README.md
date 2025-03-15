@@ -71,8 +71,11 @@ Run the installation script:
 
 sudo bash install.sh
 
+Now run the tool 
 
+python3 Brute-force.py
 
+(https://github.com/dddhhr/Brute-Force/blob/main/Picsart_25-03-14_15-53-34-107.png) 
 
 Note: It is advisable to update your Kali Linux system using:
 
