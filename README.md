@@ -75,7 +75,7 @@ Now run the tool
 
 python3 Brute-force.py
 
-(https://raw.githubusercontent.com/dddhr/Brute-Force/main/Picsart_25-03-14_15-53-34-107.png) 
+(https://raw.githubusercontent.com/dddhr/Brute-Force/Picsart_25-03-14_15-53-34-107.png) 
 
 Note: It is advisable to update your Kali Linux system using:
 
