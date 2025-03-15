@@ -41,22 +41,20 @@ Open a terminal, navigate to the tool’s directory, and run the following comma
 
 # Clone the repository
 ```bash
-git clone https://github.com/dddhhr/Brute-Force
+
+wget https://raw.githubusercontent.com/dddhhr/Brute-Force/main/brute-force.tar
 
 ```
 
-# Navigate to the tool's directory
-```bash
-cd Brute-Force
-```
+
 
 # Unzip the package
 ```bash
-tar -xf Brute-force.tar
+tar -xf brute-force.tar
 ```
 # Go to a folder I have edited 
 ```bash
-cd Brute-force
+cd brute-force
 ```
 # Grant execution permissions to all files
 
@@ -65,6 +63,10 @@ chmod 777 *
 ```
 
 # Run the installation script
+
+> Make sure to run this file. If you do not install it,
+the tool will not work for you. 
+---
 ```bash
 sudo bash install.sh
 ```
@@ -88,7 +90,7 @@ Launch the tool.
 
 <img src="https://raw.githubusercontent.com/dddhhr/Brute-Force/main/Picsart_25-03-14_15-53-34-107.png" width="300">
 
-## Input the account details (email, phone number, or username) you wish to test.
+**Input the account details (email, phone number, or username) you wish to test.**
 
 
 
@@ -109,10 +111,12 @@ The primary goal is to enhance cybersecurity awareness and to emphasize the impo
 
 ---
 
-Stay Updated
+## 📍 Stay Updated 
 
-## For the latest cybersecurity tips, ethical hacking techniques, and tool updates, follow me on:
-
+**For the latest cybersecurity tips, ethical hacking techniques, and tool updates, follow me on:**
+>  Follow me on Instagram to get all the latest news👨‍💻
+> Contact me through my Facebook account 👨‍💻
+--- 
 - **Instagram: https://github.com/dddhhr**
 
 - **Facebook: https://www.facebook.com/dddhhhr**
