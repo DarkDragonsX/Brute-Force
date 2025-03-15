@@ -1,126 +1,126 @@
-# Brute-Force
-Facebook account guessing tool ( Brute Force ) 👨‍💻
+# Brute-Force Tool
 
-
----
-
-Brute Force Tool – Ethical Penetration Testing for Facebook Accounts
-
-
----
-
-1. Overview
-
-This experimental tool, a free version of "Black Dragon," uses brute force techniques to test the strength of passwords associated with Facebook accounts. It supports testing via email, phone number, or username.
-
-> Disclaimer: This tool is intended strictly for ethical penetration testing purposes and must only be used after obtaining explicit permission from the account owner. Unauthorized use may result in severe legal consequences.
+ ## Facebook account password testing utility for ethical penetration testing purposes.
 
 
 
+## Overview
+
+The Brute-Force tool is an experimental, free version of "Black Dragon" designed to assess the strength of passwords associated with Facebook accounts. It supports testing via email, phone number, or username.
+
+> **Disclaimer:** This tool is intended solely for ethical penetration testing. Use it only with the explicit permission of the account owner. Unauthorized use may result in severe legal consequences.
 
 ---
 
-2. Key Features
+## Key Features
 
-Password Testing:
-Systematically tests each password listed in the passwords.txt file located in the tool’s directory.
+- **Password Testing:**  
+  Systematically tests each password listed in the `passwords.txt` file located in the tool’s directory.
 
-Delay Between Attempts:
-Implements a delay of 5 to 7 seconds between attempts to avoid detection or account lockouts.
+- **Delay Between Attempts:**  
+  Implements a delay of 5 to 7 seconds between each attempt to reduce the risk of detection or account lockouts.
 
-Identity Concealment:
-It is recommended to use a VPN or similar tools (e.g., VBN) during operation to mask your origin.
+- **Identity Concealment:**  
+  It is recommended to use a VPN or similar anonymizing tools (e.g., VBN) during operation to mask your origin.
 
-System Compatibility:
-Designed to run on Kali Linux, specifically optimized for Kali Nethunter on Termux for mobile devices.
-
-
+- **System Compatibility:**  
+  Designed primarily for Kali Linux, with specific optimizations for Kali Nethunter on Termux for mobile devices.
 
 ---
 
-3. Setup and Operation Instructions
+## Setup and Operation Instructions
 
-3.1. Prepare the Password File
+### 1. Prepare the Password File
 
-Create a file named passwords.txt in the same directory as the tool.
+- Create a file named `passwords.txt` in the same directory as the tool.
+- Ensure the file contains the list of passwords you wish to test.
 
-Ensure the file contains the list of passwords you wish to test.
+### 2. Install the Requirements
 
-
-3.2. Install the Requirements
-
-Open a terminal and navigate to the tool’s directory:
----
-
-=======================================
-
-git clano https://github.com/dddhhr/Brute-Force
-
-cd brute-force
-
-Then unzip it. 
-
-tar -xf Brute-Force.tar
+Open a terminal, navigate to the tool’s directory, and run the following commands:
 
 
-Grant execution permissions to all files:
+# Clone the repository
+```bash
+git clone https://github.com/dddhhr/Brute-Force
 
+```
+
+# Navigate to the tool's directory
+```bash
+cd Brute-Force
+```
+
+# Unzip the package
+```bash
+tar -xf Brute-force.tar
+```
+# Go to a folder I have edited 
+```bash
+cd Brute-force
+```
+# Grant execution permissions to all files
+
+```bash
 chmod 777 *
+```
 
-Run the installation script:
-
+# Run the installation script
+```bash
 sudo bash install.sh
+```
 
-Now run the tool 
-
+# Launch the tool
+```bash
 python3 Brute-force.py
+```
 
-
-
-https://raw.githubusercontent.com/dddhhr/Brute-Force/refs/heads/main/Picsart_25-03-14_15-53-34-107.png
-
-
-
-Note: It is advisable to update your Kali Linux system using:
-
+Note: It is advisable to update your Kali Linux system beforehand:
+```bash
 sudo apt update && sudo apt upgrade
+```
 
-=======================================
+3. Run the Tool
+---
+After completing the setup and installation:
+---
+Launch the tool.
+---
+## Input the account details (email, phone number, or username) you wish to test.
+
+
 
 ---
-3.3. Run the Tool
 
-Once setup and installation are complete, launch the tool.
-
-Input the account details (email, phone number, or username) you wish to test.
-
-
-
+Usage Guidelines and Ethical Considerations
 ---
-
-4. Usage Guidelines and Ethical Considerations
-
 Legal Use:
-Only use this tool after obtaining explicit permission from the account owner.
+Use this tool only after obtaining explicit permission from the account owner.
 
 Personal Responsibility:
 Unauthorized use of this tool may lead to serious legal repercussions.
 
 Educational Purpose:
-The primary goal is to enhance cybersecurity awareness and emphasize the importance of strong passwords.
+The primary goal is to enhance cybersecurity awareness and to emphasize the importance of using strong, secure passwords.
 
 
 
 ---
 
-5. Stay Updated with My Developments
+Stay Updated
 
-For the latest cybersecurity tips, ethical hacking techniques, and tool updates, follow me on Instagram for smart insights and innovative updates:
+## For the latest cybersecurity tips, ethical hacking techniques, and tool updates, follow me on:
 
-Instagram:https://www.instagram.com/dddhhr_
+- **Instagram: https://github.com/dddhhr**
 
-Facebook Contact:https://www.facebook.com/dddhhhr
+- **Facebook: https://www.facebook.com/dddhhhr**
 
 
 
--
+
+
+
+
+
+
+
