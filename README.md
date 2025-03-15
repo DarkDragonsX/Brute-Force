@@ -92,6 +92,11 @@ Launch the tool.
 
 **Input the account details (email, phone number, or username) you wish to test.**
 
+**If you want to create a `password` file, it's best to keep the name as passwords.txt to ensure compatibility with the tool without any extra configuration.**
+
+I also recommend using specialized `password` list generators that tailor the file based on the target account's available information. This approach will help create a more accurate and effective list of potential passwords, thereby improving the overall efficiency of your security testing.
+
+---
 
 
 ---
