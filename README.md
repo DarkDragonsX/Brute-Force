@@ -52,8 +52,16 @@ Ensure the file contains the list of passwords you wish to test.
 Open a terminal and navigate to the tool’s directory:
 ---
 
+=======================================
+
+git clano https://github.com/dddhhr/Brute-Force
 
 cd brute-force
+
+Then unzip it. 
+
+tar -xf Brute-Force.tar
+
 
 Grant execution permissions to all files:
 
@@ -63,11 +71,14 @@ Run the installation script:
 
 sudo bash install.sh
 
+
+
+
 Note: It is advisable to update your Kali Linux system using:
 
 sudo apt update && sudo apt upgrade
 
-
+=======================================
 
 ---
 3.3. Run the Tool
