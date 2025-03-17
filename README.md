@@ -88,7 +88,7 @@ After completing the setup and installation:
 Launch the tool.
 ---
 
-<img src="https://raw.githubusercontent.com/dddhhr/Brute-Force/main/Picsart_25-03-14_15-53-34-107.png" width="300">
+<img src="https://raw.githubusercontent.com/dddhhr/Brute-Force/main/nethunter.kex.jpg" width="300">
 
 **Input the account details (email, phone number, or username) you wish to test.**
 
