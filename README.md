@@ -122,7 +122,7 @@ The primary goal is to enhance cybersecurity awareness and to emphasize the impo
 >  Follow me on Instagram to get all the latest news👨‍💻
 > Contact me through my Facebook account 👨‍💻
 --- 
-- **Instagram: https://github.com/dddhhr**
+- **Instagram: @dddhhr_
 
 - **Facebook: https://www.facebook.com/dddhhhr**
 
