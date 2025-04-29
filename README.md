@@ -122,9 +122,9 @@ The primary goal is to enhance cybersecurity awareness and to emphasize the impo
 >  Follow me on Instagram to get all the latest news👨‍💻
 > Contact me through my Facebook account 👨‍💻
 --- 
-- **Instagram: @dddhhr_
+- **Instagram: @darkdragonsx
 
-- **Facebook: https://www.facebook.com/dddhhhr**
+- **Facebook: https://www.facebook.com/darkdragonsx**
 
 
 
